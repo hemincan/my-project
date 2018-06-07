@@ -2,7 +2,7 @@
     <div class="layout" :class="{'layout-hide-text': spanLeft < 5}">
         <Row type="flex">
             <i-col :span="spanLeft" class="layout-menu-left">
-                <Menu  theme="dark" accordion >
+                <Menu  theme="dark" accordion width="auto" >
                     <div class="layout-logo-left">
                         
                     </div>
